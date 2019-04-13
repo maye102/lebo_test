@@ -1,0 +1,13 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:21503
+appPackage: com.tal.kaoyan
+appActivity: .ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: True
+ip: 127.0.0.1
+port: 4723
+a:
+  b: 123
+
